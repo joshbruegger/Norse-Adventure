@@ -6,15 +6,21 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 2221500 },
+      "predicate": {
+        "custom_model_data": { "strings": ["norse_adventure:karve"] }
+      },
       "model": "norse_adventure:ship/karve/karve"
     },
     {
-      "predicate": { "custom_model_data": 2221501 },
+      "predicate": {
+        "custom_model_data": { "strings": ["norse_adventure:knarr"] }
+      },
       "model": "norse_adventure:ship/knarr/knarr"
     },
     {
-      "predicate": { "custom_model_data": 2221502 },
+      "predicate": {
+        "custom_model_data": { "strings": ["norse_adventure:skeid"] }
+      },
       "model": "norse_adventure:ship/skeid/skeid"
     }
   ]
