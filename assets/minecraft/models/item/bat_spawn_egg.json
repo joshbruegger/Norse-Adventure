@@ -1,0 +1,21 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/spawn_egg",
+    "layer1": "item/spawn_egg_overlay"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 2221500 },
+      "model": "norse_adventure:ship/karve/karve"
+    },
+    {
+      "predicate": { "custom_model_data": 2221501 },
+      "model": "norse_adventure:ship/knarr/knarr"
+    },
+    {
+      "predicate": { "custom_model_data": 2221502 },
+      "model": "norse_adventure:ship/skeid/skeid"
+    }
+  ]
+}

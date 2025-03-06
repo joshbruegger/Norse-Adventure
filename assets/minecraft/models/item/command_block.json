@@ -1,0 +1,28 @@
+ {
+	"parent": "block/command_block",
+	"overrides": [
+		{ "predicate": { "custom_model_data":2221500}, "model": "norse_adventure:ship/karve/hull"},
+		{ "predicate": { "custom_model_data":2221501}, "model": "norse_adventure:ship/karve/sail_tucked"},
+		{ "predicate": { "custom_model_data":2221502}, "model": "norse_adventure:ship/karve/sail_half"},
+		{ "predicate": { "custom_model_data":2221503}, "model": "norse_adventure:ship/karve/sail_full"},
+		{ "predicate": { "custom_model_data":2221504}, "model": "norse_adventure:ship/karve/rudder"},
+		{ "predicate": { "custom_model_data":2221505}, "model": "norse_adventure:ship/karve/rope"},
+
+		{ "predicate": { "custom_model_data":2221506}, "model": "norse_adventure:block/runestone/main"},
+		
+		{ "predicate": { "custom_model_data":2221510}, "model": "norse_adventure:ship/knarr/hull"},
+		{ "predicate": { "custom_model_data":2221511}, "model": "norse_adventure:ship/knarr/sail_tucked"},
+		{ "predicate": { "custom_model_data":2221512}, "model": "norse_adventure:ship/knarr/sail_half"},
+		{ "predicate": { "custom_model_data":2221513}, "model": "norse_adventure:ship/knarr/sail_full"},
+		{ "predicate": { "custom_model_data":2221514}, "model": "norse_adventure:ship/knarr/rudder"},
+		{ "predicate": { "custom_model_data":2221515}, "model": "norse_adventure:ship/knarr/rope"},
+
+		{ "predicate": { "custom_model_data":2221520}, "model": "norse_adventure:ship/skeid/hull"},
+		{ "predicate": { "custom_model_data":2221521}, "model": "norse_adventure:ship/skeid/sail_tucked"},
+		{ "predicate": { "custom_model_data":2221522}, "model": "norse_adventure:ship/skeid/sail_half"},
+		{ "predicate": { "custom_model_data":2221523}, "model": "norse_adventure:ship/skeid/sail_full"},
+		{ "predicate": { "custom_model_data":2221524}, "model": "norse_adventure:ship/skeid/rudder"},
+		{ "predicate": { "custom_model_data":2221525}, "model": "norse_adventure:ship/skeid/rope"},
+		{ "predicate": { "custom_model_data":2221526}, "model": "norse_adventure:ship/skeid/sail_released"}
+	]
+}

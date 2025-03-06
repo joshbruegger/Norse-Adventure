@@ -1,0 +1,43 @@
+{   
+    "pack.norse_adventure": "Norse Adventure",
+
+    "item.norse_adventure.karve": "Karve",
+    "item.norse_adventure.knarr": "Knarr",
+    "item.norse_adventure.skeid": "Skeid",
+
+
+    "advancements.norse_adventure.recipes.root.title": "Norse Adventure Recipes",
+    "advancements.norse_adventure.recipes.root.description": "All ships are crafted by throwing their required ingredients in a pile on the ground.",
+    "advancements.norse_adventure.recipes.karve.title": "Karve    ",
+    "advancements.norse_adventure.recipes.karve.description": "8 Iron Ingots, 32 Oak Planks, 8 Oak Logs & 8 White Wool",
+    "advancements.norse_adventure.recipes.knarr.title": "Knarr     ",
+    "advancements.norse_adventure.recipes.knarr.description": "16 Iron Ingots, 64 Oak Planks, 8 Oak Logs & 8 White Wool",
+    "advancements.norse_adventure.recipes.skeid.title": "Skeid       ",
+    "advancements.norse_adventure.recipes.skeid.description": "32 Iron Ingots, 64 Oak Planks, 16 Oak Logs & 16 White Wool",
+
+
+    "advancements.norse_adventure.tutorial.root.title": "Norse Adventure",
+    "advancements.norse_adventure.tutorial.root.description": "Viking Ships",
+    "advancements.norse_adventure.tutorial.karve.title": "Karve",
+    "advancements.norse_adventure.tutorial.karve.description": "Craft the Karve, an all-purpose vessel used for fishing, trading and transportation.",
+    "advancements.norse_adventure.tutorial.knarr.title": "Knarr",
+    "advancements.norse_adventure.tutorial.knarr.description": "Craft the Knarr, a trading vessel with lots of storage.",
+    "advancements.norse_adventure.tutorial.skeid.title": "Skeid",
+    "advancements.norse_adventure.tutorial.skeid.description": "Craft the Skeid, a transport and raiding ship, able to carry a large amount of warriors.",
+
+    "advancements.norse_adventure.tutorial.steering_seat.title": "Steering Seat",
+    "advancements.norse_adventure.tutorial.steering_seat.description": "Sit down in the rearmost seat to steer your new ship.",
+    "advancements.norse_adventure.tutorial.sail.title": "The Sail",
+    "advancements.norse_adventure.tutorial.sail.description": "Accelerate by left/right-clicking the wooden knob to your left.",
+    "advancements.norse_adventure.tutorial.rudder.title": "The rudder",
+    "advancements.norse_adventure.tutorial.rudder.description": "Rotate by left/right-clicking the rudder to your right.",
+    "advancements.norse_adventure.tutorial.destruction.title": "Destruction!",
+    "advancements.norse_adventure.tutorial.destruction.description": "Break the ship by attacking the mast",
+
+    "advancements.norse_adventure.tutorial.speed.title": "I am speed",
+    "advancements.norse_adventure.tutorial.speed.description": "Travel at maximum speed in the Skeid.",
+    "advancements.norse_adventure.tutorial.heavy_load.title": "Heavy Load",
+    "advancements.norse_adventure.tutorial.heavy_load.description": "Fill up a knarr's crates with items.",
+    "advancements.norse_adventure.tutorial.cod_wars.title": "Cod Wars",
+    "advancements.norse_adventure.tutorial.cod_wars.description": "Catch a cod while sitting in a karve."
+}
