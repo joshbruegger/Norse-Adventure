@@ -16,14 +16,21 @@
             },
             {
               "function": "minecraft:set_custom_model_data",
-              "value": 2221501
+              "strings": {
+                "values": ["norse_adventure:knarr"],
+                "mode": "replace_all"
+              }
             },
             {
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:entity_data": {
                   "id": "minecraft:marker",
-                  "Tags": ["norse_adventure.entity","norse_adventure.spawn","norse_adventure.spawn.knarr"]
+                  "Tags": [
+                    "norse_adventure.entity",
+                    "norse_adventure.spawn",
+                    "norse_adventure.spawn.knarr"
+                  ]
                 }
               }
             }

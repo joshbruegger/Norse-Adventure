@@ -4,7 +4,7 @@
     "icon": {
       "id": "minecraft:bat_spawn_egg",
       "components": {
-        "minecraft:custom_model_data": 2221501
+        "minecraft:custom_model_data": { "strings": ["norse_adventure:knarr"] }
       }
     },
     "title": {

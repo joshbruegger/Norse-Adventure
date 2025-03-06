@@ -3,7 +3,7 @@
     "icon": {
       "id": "minecraft:command_block",
       "components": {
-        "minecraft:custom_model_data": 2221504
+        "minecraft:custom_model_data": { "strings": ["norse_adventure:rudder"] }
       }
     },
     "title": {
@@ -38,10 +38,5 @@
       }
     }
   },
-  "requirements": [
-    [
-      "right_click",
-      "left_click"
-    ]
-  ]
+  "requirements": [["right_click", "left_click"]]
 }

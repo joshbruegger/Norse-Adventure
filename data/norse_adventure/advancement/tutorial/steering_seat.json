@@ -4,7 +4,7 @@
     "icon": {
       "id": "minecraft:command_block",
       "components": {
-        "minecraft:custom_model_data": 2221500
+        "minecraft:custom_model_data": { "strings": ["norse_adventure:karve"] }
       }
     },
     "title": {
