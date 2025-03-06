@@ -1,0 +1,92 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/command_block"
+    },
+    "cases": [
+      {
+        "when": "norse_adventure:karve",
+        "model": "norse_adventure:ship/karve/hull"
+      },
+      {
+        "when": "norse_adventure:knarr",
+        "model": "norse_adventure:ship/karve/sail_tucked"
+      },
+      {
+        "when": "norse_adventure:skeid",
+        "model": "norse_adventure:ship/karve/sail_half"
+      },
+      {
+        "when": "norse_adventure:sail",
+        "model": "norse_adventure:ship/karve/sail_full"
+      },
+      {
+        "when": "norse_adventure:rudder",
+        "model": "norse_adventure:ship/karve/rudder"
+      },
+      {
+        "when": "norse_adventure:sail_rope",
+        "model": "norse_adventure:ship/karve/rope"
+      },
+      {
+        "when": "norse_adventure:2221506",
+        "model": "norse_adventure:block/runestone/main"
+      },
+      {
+        "when": "norse_adventure:knarr_hull",
+        "model": "norse_adventure:ship/knarr/hull"
+      },
+      {
+        "when": "norse_adventure:knarr_sail_tucked",
+        "model": "norse_adventure:ship/knarr/sail_tucked"
+      },
+      {
+        "when": "norse_adventure:knarr_sail_half",
+        "model": "norse_adventure:ship/knarr/sail_half"
+      },
+      {
+        "when": "norse_adventure:knarr_sail_full",
+        "model": "norse_adventure:ship/knarr/sail_full"
+      },
+      {
+        "when": "norse_adventure:knarr_rudder",
+        "model": "norse_adventure:ship/knarr/rudder"
+      },
+      {
+        "when": "norse_adventure:knarr_sail_rope",
+        "model": "norse_adventure:ship/knarr/rope"
+      },
+      {
+        "when": "norse_adventure:skeid_hull",
+        "model": "norse_adventure:ship/skeid/hull"
+      },
+      {
+        "when": "norse_adventure:skeid_sail_tucked",
+        "model": "norse_adventure:ship/skeid/sail_tucked"
+      },
+      {
+        "when": "norse_adventure:skeid_sail_half",
+        "model": "norse_adventure:ship/skeid/sail_half"
+      },
+      {
+        "when": "norse_adventure:skeid_sail_full",
+        "model": "norse_adventure:ship/skeid/sail_full"
+      },
+      {
+        "when": "norse_adventure:skeid_rudder",
+        "model": "norse_adventure:ship/skeid/rudder"
+      },
+      {
+        "when": "norse_adventure:skeid_sail_rope",
+        "model": "norse_adventure:ship/skeid/rope"
+      },
+      {
+        "when": "norse_adventure:skeid_sail_released",
+        "model": "norse_adventure:ship/skeid/sail_released"
+      }
+    ]
+  }
+}

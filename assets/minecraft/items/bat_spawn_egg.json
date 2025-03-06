@@ -1,0 +1,33 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bat_spawn_egg"
+    },
+    "cases": [
+      {
+        "when": "norse_adventure:karve",
+        "model": {
+          "type": "minecraft:model",
+          "model": "norse_adventure:ship/karve/karve"
+        }
+      },
+      {
+        "when": "norse_adventure:knarr",
+        "model": {
+          "type": "minecraft:model",
+          "model": "norse_adventure:ship/knarr/knarr"
+        }
+      },
+      {
+        "when": "norse_adventure:skeid",
+        "model": {
+          "type": "minecraft:model",
+          "model": "norse_adventure:ship/skeid/skeid"
+        }
+      }
+    ]
+  }
+}
